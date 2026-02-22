@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikitagenamindcom/genamind-ai/main/docs/logo.png" alt="Genamind AI" width="120">
+</p>
+
 <h1 align="center">👋 Привет, я Никита</h1>
 
 <p align="center">
